@@ -2,7 +2,7 @@
 
 ---
 
-This is project is a python script that was written to help you count you lines of code
+This is project is a python script that was written to help you count your lines of code
 
 You no longer have to wonder how many lines of code you've written and try to count it with you hands
 
